@@ -5,7 +5,7 @@ const entries = [
     id: 'cat',
     categories: ['cat'],
     color: 'green',
-    faicon: 'cat',
+    faicon: 'scale-balanced',
     datetime: '2021-01-01 05:00',
     title: 'Cats are very good',
     image: {
@@ -25,7 +25,7 @@ const entries = [
   {
     id: 'dog',
     categories: ['dog'],
-    color: 'green',
+    color: 'grey',
     faicon: 'dog',
     datetime: '2021-05-01 23:55',
     title: 'Puppies are great too',

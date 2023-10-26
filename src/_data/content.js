@@ -25,7 +25,7 @@ const entries = [
   {
     id: 'dog',
     categories: ['dog'],
-    color: 'grey',
+    color: 'red',
     faicon: 'dog',
     datetime: '2021-05-01 23:55',
     title: 'Puppies are great too',
